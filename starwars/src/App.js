@@ -6,12 +6,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      starwarsChars: [],
-      name: '',
-      gender: '',
-      birth_year: '',
-      height: '',
-      eye_color: ''
+      starwarsChars: []
     };
   }
 
